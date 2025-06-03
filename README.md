@@ -33,6 +33,7 @@ The dataset includes the following features:
 You can install dependencies with:  
 
 pip install pandas scikit-learn numpy
+
 💻 Usage
 Load the dataset cars_dataset.csv.
 
